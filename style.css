@@ -1,0 +1,26 @@
+body 
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start
+{
+    font-size: 18px;
+
+}
+#status, #number_of_objects, #start
+{
+    font-size: 18px;
+}
+canvas
+{
+border: 2px solid rgb(17, 82, 82);
+border-radius: 10 px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px rgb(5, 52, 64);
+}
